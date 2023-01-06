@@ -1,5 +1,5 @@
-GET https://localhost:7129 HTTP/1.1
+GET https://localhost:7129/listify?begin=1&end=5&index=1 HTTP/1.1
 
 ###
 
-GET https://sparkfish-demo.azurewebsites.net HTTP/1.1
+GET https://sparkfish-demo.azurewebsites.net/listify?begin=1&end=5&index=2 HTTP/1.1

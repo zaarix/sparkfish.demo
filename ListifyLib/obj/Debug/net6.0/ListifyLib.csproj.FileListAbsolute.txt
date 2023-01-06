@@ -1,0 +1,12 @@
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/bin/Debug/net6.0/ListifyLib.deps.json
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/bin/Debug/net6.0/ListifyLib.dll
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/bin/Debug/net6.0/ListifyLib.pdb
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/obj/Debug/net6.0/ListifyLib.csproj.AssemblyReference.cache
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/obj/Debug/net6.0/ListifyLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/obj/Debug/net6.0/ListifyLib.AssemblyInfoInputs.cache
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/obj/Debug/net6.0/ListifyLib.AssemblyInfo.cs
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/obj/Debug/net6.0/ListifyLib.csproj.CoreCompileInputs.cache
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/obj/Debug/net6.0/ListifyLib.dll
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/obj/Debug/net6.0/refint/ListifyLib.dll
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/obj/Debug/net6.0/ListifyLib.pdb
+/home/zaarix/data/code/sandbox/sparkfish/sparkfish.demo/ListifyLib/obj/Debug/net6.0/ref/ListifyLib.dll
